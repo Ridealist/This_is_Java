@@ -1,4 +1,4 @@
-package CH5;
+package CH5.Array;
 
 public class ArrayCopyByFor {
     public static void main(String[] args) {
