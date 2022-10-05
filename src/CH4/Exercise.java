@@ -1,3 +1,5 @@
+package CH4;
+
 public class Exercise {
     public static void main(String[] args) {
 
